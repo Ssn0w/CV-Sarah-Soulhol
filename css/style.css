@@ -6,4 +6,8 @@ html,body{
 
 .mescartes{
     display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
